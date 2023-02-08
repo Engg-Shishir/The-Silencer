@@ -1,1 +1,0 @@
-# Compitative Programming Problem
