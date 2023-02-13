@@ -9,7 +9,7 @@
 
 
 > ## Date : 09/02/2023
-  + `Get largest value from fraction value :` ceil(2.5) == 3
+  + `Get largest value from fraction value :` int ok = ceil((float)first/second);
   + If the time limit is 1 sec, your processor is able to execute 10^8 operations.
   + In C++ use scanf/printf instead of cin/cout
 
@@ -30,3 +30,22 @@
   ```
 > ## Date : 11/02/2023
 + `Sort vector :` sort( box.begin(), box.end() );
+
+ ## Date : 12/02/2023
+  + `Find index number from vector :`
+  ```cpp
+    int getIndex(vector<int>list,int k){
+      int index;
+      auto it = find(list.begin(), list.end(), k);
+      if (it != list.end())  index = it - list.begin();
+  
+      return index;
+    }
+ ```
+  + `Vector maximum value : ` *max_element (list.begin(), list.end());
+  + `Vector minimum value : ` *min_element (list.begin(), list.end());
+  + `swap to var : ` swap(var1, var2);
+  + ` Declare pair in vector : ` vector< pair <int,int> > vect;
+      + `Insert into vector pair : ` vect.push_back(make_pair(a,b) );
+      + `Get vector pair value : ` vect[i].first, vect[i].second
+       
