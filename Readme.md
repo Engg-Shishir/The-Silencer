@@ -28,3 +28,5 @@
   AB = A;
   AB.insert(AB.end(), B.begin(), B.end());
   ```
+> ## Date : 11/02/2023
++ `Sort vector :` sort( box.begin(), box.end() );
