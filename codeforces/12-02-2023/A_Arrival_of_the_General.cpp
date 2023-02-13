@@ -1,5 +1,5 @@
 /*
-    Problem Name : Divisibility Problem 
+    Problem Name : Arrival of the General 
     Source       : https://codeforces.com/problemset/problem/144/A
     Author       : Shishir Bhuiyan
     Codeforces   : The-Silencer

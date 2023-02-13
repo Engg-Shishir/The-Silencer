@@ -31,7 +31,7 @@
 > ## Date : 11/02/2023
 + `Sort vector :` sort( box.begin(), box.end() );
 
- ## Date : 12/02/2023
+> ## Date : 12/02/2023
   + `Find index number from vector :`
   ```cpp
     int getIndex(vector<int>list,int k){
@@ -48,4 +48,12 @@
   + ` Declare pair in vector : ` vector< pair <int,int> > vect;
       + `Insert into vector pair : ` vect.push_back(make_pair(a,b) );
       + `Get vector pair value : ` vect[i].first, vect[i].second
+
+> ## Date : 13/02/2023
++ `Macro : ` 
+```cpp
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
+```
++ `Sort vector as a decending order : ` sort(list.begin(), list.end(), greater <>());
        
