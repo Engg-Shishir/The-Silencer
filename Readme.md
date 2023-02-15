@@ -56,4 +56,8 @@
   cin.tie(NULL);
 ```
 + `Sort vector as a decending order : ` sort(list.begin(), list.end(), greater <>());
+
+
+> ## Date : 15/02/2023
++ `get input a line :` getline(cin, strVar);
        
