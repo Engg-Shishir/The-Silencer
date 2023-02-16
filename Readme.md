@@ -60,4 +60,12 @@
 
 > ## Date : 15/02/2023
 + `get input a line :` getline(cin, strVar);
-       
+
+
+
+> ## Date : 16/02/2023
++ `define set stl :` set<int> name;
+   + Sets are a type of associative container in which each element has to be unique 
+   + insert : `name.insert(a);`
+   + size   : `name.size()`
+   + maximum value find : `name.max_size()`    
