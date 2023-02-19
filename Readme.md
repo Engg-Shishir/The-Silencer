@@ -1,4 +1,48 @@
 # Compitative Programming Problem
+<details>
+<summary>Cpp primary setup</summary>
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long int
+#define pb push_back
+
+#define f first
+#define s second
+#define no cout << "NO\n"
+#define yes cout << "YES\n"
+
+
+void solve()
+{
+
+}
+int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+
+
+    int t = 1;
+    cin >> t;
+ 
+    while (t--)
+    {
+        solve();
+    }
+ 
+    return 0;
+}
+```
+</details>
+
+
+
+
+
+
+
 
 > ## Date: 08/02/2023
 + `Set precision :` cout << fixed << setprecision(2) << num << endl;
@@ -69,3 +113,6 @@
    + insert : `name.insert(a);`
    + size   : `name.size()`
    + maximum value find : `name.max_size()`    
+
+> ## Date : 18/02/2023
++ Applied recursibe function
