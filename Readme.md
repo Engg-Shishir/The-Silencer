@@ -116,3 +116,12 @@ int main(){
 
 > ## Date : 18/02/2023
 + Applied recursibe function
+
+> ## Date : 21/02/2023
++ `string sort :` sort(str.begin(),str.end()); 
+
+> ## Date : 23/Feb/2023
++ `Msp stl :` Maps are associative containers that store elements in a mapped fashion. Each element has a key value and a mapped value. No two mapped values can have the same key values.
+   + Declar : map<string, int> maps;
+   + Insert : maps.insert(pair<string,int>(get,maps[get]++));
+   + Increase map specific key valu : maps[key]++;
