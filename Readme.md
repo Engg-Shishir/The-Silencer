@@ -128,3 +128,14 @@ int main(){
 
 > ## Date : 26/Feb/2023
 + `Declar a constant :` const string PI = "314159265358979323846264338327";
+
+> ## Date : 02/March/2023
++ Asci Table 
+```html
+
+A----Z = 65-------90
+a----z = 97-------122
+0----9 = 48-------57
+a-A    = 32
+
+```
